@@ -2,7 +2,7 @@
 
 A C++ openFrameworks visual representation of a composition consisting of sound samples, executed over a period of time.
 
-![](https://media.giphy.com/media/ygx1dMElPCpx4FiUix/giphy.gif)
+![gif](https://media.giphy.com/media/ygx1dMElPCpx4FiUix/giphy.gif)
 
 This class will read from a text file containing types of note, its timecode and length of sustain to draw a visual representation of it and output the sound accordingly.
 
